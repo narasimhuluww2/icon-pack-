@@ -1,0 +1,7 @@
+{
+  "name": "MonoIcon Studio",
+  "description": "Monochrome comic and vintage newspaper app icon creator with real-time filters, photo cropping, symbols, effects, and PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
